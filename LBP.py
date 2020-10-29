@@ -10,8 +10,6 @@ import math
 import time
 import os, sys
 
-def text():
-    pass
 
 
 
