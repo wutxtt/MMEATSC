@@ -1,6 +1,5 @@
-# homework
-just for saving
+# SCEA is the MMEA/TSC proposed in the manuscript
 
-zk: lol
+# The specific data has been placed in the Data folder
 
-hhhhhh
+# Run gorun.m to reproduce the results
